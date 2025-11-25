@@ -18,8 +18,8 @@
       /* Banner nền ảnh */
 .banner {
     width: 100%;
-    height: 360px;
-    background-image: url('himfri.jpg');
+    height: 300px;
+    background-image: url('bai7.png');
     background-size: cover;
     background-position: center;
     display: flex;
